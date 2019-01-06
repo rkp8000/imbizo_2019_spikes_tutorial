@@ -5,4 +5,5 @@
 !*.py
 !.gitignore
 !*.npy
+!*.mat
 
