@@ -6,4 +6,5 @@
 !.gitignore
 !*.npy
 !*.mat
+!tutorial.pdf
 
